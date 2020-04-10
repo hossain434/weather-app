@@ -1,0 +1,13 @@
+{
+  "emmet.triggerExpansionOnTab": true,
+  "html.format.indentHandlebars": true,
+  "html.format.indentInnerHtml": true,
+  "emmet.optimizeStylesheetParsing": false,
+  "files.associations": {
+    "*html": "html"
+  },
+  "emmet.showAbbreviationSuggestions": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
